@@ -1,0 +1,14 @@
+21CNTThuc - Xử lý ngôn ngữ tự nhiên ứng dụng
+Group 5 - Teach me
+19127620 - Nguyễn Văn Vũ Tường
+20127349 - Trần Quốc Thuận
+Project ID "H.11" - AI English Tutor 
+
+After the interview, 2 features have been added:
+"(7) IELTS Writing Task 2 answering": The user can enter an IELTS Writing Task 2 question and a band score. The tutor will answer the question while targeting that band score.
+"(8) IELTS Writing Task 2 assessment": The user can enter an IELTS Writing Task 2 question and answer. The tutor will provide an assessment and a band score.
+
+Reasoning: 
+Following the rubric of an examination like IELTS is a highly complex task. The 2 features help demonstrate the next logical step and potential of large language models in English learning.
+Examinees can use them for inspiration and self-assessment. They have the potential to make the assessment process faster and more objective.
+However, for the time being, they may fail to grasp complex subject matter and provide inaccurate information.
