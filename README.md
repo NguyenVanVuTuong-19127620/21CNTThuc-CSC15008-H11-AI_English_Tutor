@@ -12,64 +12,64 @@ In order to run the tutor, you will need:
 * An ElevenLabs API key (optional)
 
 When you have everything above, please follow these steps:  
-**Step 1**: Upload "AI English Tutor.ipynb" to Google Drive.
+**Step 1**: Upload "AI English Tutor.ipynb" to Google Drive.  
 ![step1](./img/step1.png)
 
-**Step 2**: Open "AI English Tutor.ipynb" with Google Colaboratory.
+**Step 2**: Open "AI English Tutor.ipynb" with Google Colaboratory.  
 ![step2](./img/step2.png)
 
-**Step 3**: Click on "Connect".
+**Step 3**: Click on "Connect".  
 ![step3](./img/step3.png)
 
-**Step 4**: Run cell 1 and cell 2.
-![step4a](./img/step4a.png)
+**Step 4**: Run cell 1 and cell 2.  
+![step4a](./img/step4a.png)  
 ![step4b](./img/step4b.png)
 
-**Step 5**: Enter your OpenAI API key and ElevenLabs API key in cell 3.
+**Step 5**: Enter your OpenAI API key and ElevenLabs API key in cell 3.  
 ![step5](./img/step5.png)
 
-**Step 6**: Upload "api.py" to the "backend" folder in order to replace the old "api.py".
+**Step 6**: Upload "api.py" to the "backend" folder in order to replace the old "api.py".  
 ![step6](./img/step6.png)
 
-**Step 7**: Run cell 3, cell 4, cell 5.
-![step7a](./img/step7a.png)
-![step7b](./img/step7b.png)
+**Step 7**: Run cell 3, cell 4, cell 5.  
+![step7a](./img/step7a.png)  
+![step7b](./img/step7b.png)  
 ![step7c](./img/step7c.png)
 
-**Step 8**: Open the third URL in cell 5.
+**Step 8**: Open the third URL in cell 5.  
 ![step8](./img/step8.png)
 
-**Step 9**: The "Tunnel Password" is the IP address in cell 4. Submit it.
-![step9a](./img/step9a.png)
+**Step 9**: The "Tunnel Password" is the IP address in cell 4. Submit it.  
+![step9a](./img/step9a.png)  
 ![step9b](./img/step9b.png)
 
-**Step 10**: You can now interact with the tutor using the drop-down menus, input field, and submit button.
+**Step 10**: You can now interact with the tutor using the drop-down menus, input field, and submit button.  
 ![step10](./img/step10.png)
 
 Here are a few examples:  
-**Example 1**:
+**Example 1**:  
 ![example1](./img/example1.png)
 
-**Example 2**:
+**Example 2**:  
 ![example2](./img/example2.png)
 
-**Example 3**:
+**Example 3**:  
 ![example3](./img/example3.png)
 
-**Example 4**:
+**Example 4**:  
 ![example4](./img/example4.png)
 
-**Example 5**:
+**Example 5**:  
 ![example5](./img/example5.png)
 
-**Example 6**:
+**Example 6**:  
 ![example6](./img/example6.png)
 
 Example 7 and example 8 can use input from:  
 https://ielts-academic.com/category/ielts-writing/task-2/sample-answers-task-2/
 
-**Example 7**:
-![example7a](./img/example7a.png)
+**Example 7**:  
+![example7a](./img/example7a.png)  
 ![example7b](./img/example7b.png)
 
 **Example 8**:  
